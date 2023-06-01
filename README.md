@@ -1,2 +1,0 @@
-# LaboratorioFinal
-SamsungDev
